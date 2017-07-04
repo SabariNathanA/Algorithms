@@ -1,5 +1,2 @@
-jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
-jjjjjjjjjjjjjj
-jjjjjjjjjjjjjjjjjjj
-##sdsd
-sdsds
+## Graph Traversals 
+Has BFS,DFS, Prim's Kruskals
